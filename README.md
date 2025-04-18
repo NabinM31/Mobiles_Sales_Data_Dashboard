@@ -57,4 +57,22 @@ This dashboard provides actionable insights into:
 
 - **Power BI** – Data visualization and interactive dashboards  
 - **DAX** – Custom metrics and calculations  
-- **Power Query** –
+- **Power Query**
+
+
+
+---
+
+## ✅ Key Insights
+
+- iPhone SE and OnePlus Nord are top-selling models  
+- Bangalore, Mumbai, and Hyderabad lead in total sales  
+- UPI and Debit Cards dominate as preferred payment methods  
+- February 2023 shows a slight dip compared to February 2022  
+- Overall positive customer satisfaction with majority "GOOD" ratings  
+
+---
+
+> 💡 *This Power BI project can guide sales strategy, regional targeting, and product marketing decisions in the mobile industry.*
+
+
