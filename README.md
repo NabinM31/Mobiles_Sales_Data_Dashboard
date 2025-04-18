@@ -75,7 +75,7 @@ This dashboard provides actionable insights into:
 
 ## 👨‍💻 Author
 
-- **Nabin Mishra**  
+- **Nabin Mandal**  
   GitHub: [@NabinM31](https://github.com/NabinM31)
 
 
