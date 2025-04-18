@@ -1,35 +1,48 @@
+# 📱 Mobile Sales Dashboard
 
-# 📊 Mobile Sales Dashboard
+This project features an interactive **Power BI dashboard** that analyzes **mobile sales performance** across different brands, models, cities, and time periods. It enables users to uncover sales trends, customer preferences, and transactional insights using rich visuals and slicers.
 
-## 📌 Overview
-This repository contains a **Mobile Sales Dashboard** created using Power BI. It provides insights into total sales, quantity, transactions, and customer ratings.
+---
 
-### 🖼️ Dashboard Previews
+## 📊 Dashboard Overview
 
-#### 📌 **Main Dashboard**
-![Mobile Sales Dashboard](mobile%20sales%20dashboard.png)
+The dashboard is divided into three major report views:
 
-#### 📌 **Same Period Last Year**
-![Same Period Last Year](sam%20period%20last%20year.png)
+### 🔹 Main Dashboard
+- Total sales, quantity, transactions, and average price.
+- Regional sales distribution (map).
+- Monthly trends, model-wise sales, and customer ratings.
+- Payment method breakdowns.
 
-```Same period last year.png
-🔹 Key Insights from Mobile Sales Dashboard:
-✔ Total Sales: 19M | Total Quantity: 502
-✔ Transaction Count: 95 | Avg. Price: 37.45K
-✔ Year-over-Year Comparison: Sales vs. Same Period Last Year
-✔ Quarterly & Monthly Trends: Visual comparison of sales performance
-✔ Interactive Filters: Analyze sales by Mobile Model, Payment Method, and Time Period
-```
+![Main Dashboard](./mobile%20sales%20dashboard.png)
 
-#### 📌 **Month-to-Date (MTD) Analysis**
-![MTD Analysis](MTD.png)
+---
 
-```🔹 Key Insights from MTD Sales Dashboard:
-✔ Total Sales: 23M | Total Quantity: 604
-✔ Transaction Count: 116 | Avg. Price: 37.4K
-✔ MTD (Month-to-Date) Growth: Sales progression tracked daily
-✔ Yearly Comparison: Evaluate trends across different time periods
-✔ Interactive Filters: Drill down by Mobile Model, Payment Method, and Date
+### 📈 MTD Report
+- Tracks month-to-date sales performance.
+- Visualizes growth trends over days in the selected month.
 
-📊 Empowering decision-making with data-driven insights! 🚀
-```
+![MTD Dashboard](./MTD.png)
+
+---
+
+### 🆚 Same Period Last Year
+- Compares current year’s sales vs same period last year.
+- Quarterly and monthly comparison visualizations.
+
+![Same Period Last Year](./sam%20period%20last%20year.png)
+
+---
+
+## 🛠 Features
+
+- 📅 **Date Slicers:** Analyze sales by month, quarter, or year.
+- 📍 **Location Filter:** Understand city-wise contributions.
+- 📱 **Brand & Model Filters:** Deep dive into specific mobile sales.
+- 💳 **Payment Analysis:** See payment trends and customer behavior.
+- 📌 **Comparison View:** Evaluate sales YoY with insightful visual contrast.
+
+---
+
+## 📂 File Structure
+
