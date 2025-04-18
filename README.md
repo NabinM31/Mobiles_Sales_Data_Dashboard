@@ -73,6 +73,13 @@ This dashboard provides actionable insights into:
 
 ---
 
+## 👨‍💻 Author
+
+- **Nabin Mishra**  
+  GitHub: [@NabinM31](https://github.com/NabinM31)
+
+
+
 > 💡 *This Power BI project can guide sales strategy, regional targeting, and product marketing decisions in the mobile industry.*
 
 
